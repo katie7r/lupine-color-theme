@@ -1,0 +1,21 @@
+{
+  "name": "lupine",
+  "displayName": "Lupine",
+  "description": "Lupine-inspired dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lupine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lupine-color-theme.json"
+      }
+    ]
+  }
+}
